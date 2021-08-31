@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S7Agent", "S7Agent.csproj", "{2C46D5B1-BCA4-41DB-90E3-59E355925987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C46D5B1-BCA4-41DB-90E3-59E355925987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C46D5B1-BCA4-41DB-90E3-59E355925987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C46D5B1-BCA4-41DB-90E3-59E355925987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C46D5B1-BCA4-41DB-90E3-59E355925987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADFB5F94-4FD0-42EA-A8CC-F6F3CC7DD73B}
+	EndGlobalSection
+EndGlobal
